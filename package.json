@@ -1,14 +1,7 @@
 {
-  "name": "vercel-pwn-api",
-  "version": "1.0.0",
-  "main": "api/index.js",
-  "scripts": {
-    "start": "node api/index.js"
-  },
+  "name": "vercel-pwn-api-v2",
+  "version": "2.0.0",
   "dependencies": {
-    "express": "^4.18.2",
-    "ssh2-promise": "^1.0.0-beta.3",
-    "cors": "^2.8.5",
-    "body-parser": "^1.20.2"
+    "ssh2-promise": "^1.0.0-beta.3"
   }
 }
